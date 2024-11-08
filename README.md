@@ -1,2 +1,0 @@
-# giltous-ex
-site
